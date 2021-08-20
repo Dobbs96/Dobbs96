@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dobbs96
 - 👀 I’m interested into coding and learning more.
 - 🌱 I’m currently learning web developing. 
-- Please try to reach me at my email Dobbs282@gmail.com
+- Reach me at my email Dobbs282@gmail.com
 
 I have a lot to learn, but i am enjoying my everyday tasks. Everyday I am putting my skills to the test. I don't think there is a limit on my skills. There is always something new coming to master!
 
