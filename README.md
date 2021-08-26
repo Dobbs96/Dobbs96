@@ -2,6 +2,7 @@
 - 👀 I’m interested into coding and learning more.
 - 🌱 I’m currently learning web developing. 
 - Reach me at my email james.dobbs@aol.com
+[Live](https://dobbs96.github.io/Portfolio/)
 
 I have a lot to learn, but i am enjoying my everyday tasks. Everyday I am putting my skills to the test. I don't think there is a limit on my skills. There is always something new coming to master!
 
