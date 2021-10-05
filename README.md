@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dobbs96
-- 👀 I’m interested into coding and learning more.
-- 🌱 I’m currently learning web developing. 
-- Reach me at my email james.dobbs@aol.com
+- 👀 I’m interested into computers and music!
+- 🌱 I’m currently learning new technologies
+- Reach me at my email dobbs282@gmail.com
 
 Check out my [Live](https://dobbs96.github.io/Portfolio/) Portfolio!
 
